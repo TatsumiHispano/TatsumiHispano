@@ -29,5 +29,5 @@
 ### 📊 Lenguajes más usados:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TatsumiHispano&layout=compact&theme=dark)
 
-### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+### 📊 Estadisticas de GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatsumiHispano&show_icons=true&theme=radical)
