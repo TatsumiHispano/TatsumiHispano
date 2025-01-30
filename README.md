@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hola, soy Adrian! 👋
 
-<!--
-**TatsumiHispano/TatsumiHispano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí:
+- 📚 Actualmente desarrollando mis habilidades, a punto de comenzar un curso de especialización en Inteligencia Artificial y Big Data.
+- 🎯 Mi meta principal es convertirme en un experto en Python y su aplicación en soluciones innovadoras.
+- 🚀 Destaco por mi capacidad de aprender y adaptarme rápidamente a nuevas tecnologías y desafíos.
+- 💡 Me apasiona la resolución de problemas y la optimización de procesos mediante la programación.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y habilidades:
+- **Lenguajes de programación:** Java, Python, C#, JavaScript
+- **Desarrollo web:** HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Conéctate conmigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctate-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/adrian-aznar-madrid-aa7719268)
+
+---
+⭐ ¡No dudes en explorar mis repositorios y proyectos!
