@@ -10,8 +10,5 @@
 - **Lenguajes de programación:** Java, Python, C#, JavaScript
 - **Desarrollo web:** HTML, CSS
 
-### 📫 Conéctate conmigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctate-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/adrian-aznar-madrid-aa7719268)
-
 ---
 ⭐ ¡No dudes en explorar mis repositorios y proyectos!
