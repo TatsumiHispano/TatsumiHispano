@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/056b350a-38db-4573-adae-aa2eea066396)
+
 ## Hola, soy Adrian! 👋
 
 ### 🚀 Sobre mí:
