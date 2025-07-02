@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/056b350a-38db-4573-adae-aa2eea066396)
+![unnamed](https://github.com/user-attachments/assets/9f348de7-8251-4e33-bd7f-619054a2079f)
 
 ## Hola, soy Adrian! 👋
 
