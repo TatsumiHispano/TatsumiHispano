@@ -38,13 +38,27 @@
 🎯 **[RunAndJump](https://github.com/TatsumiHispano/RunAndJump)**  
 Juego tipo *runner* 2D con animaciones, partículas y música integradas.  
 
-👾 **[El Mata Marcianos](https://github.com/TatsumiHispano/ElMataMarcianos)**  
-Shooter 2D con disparos cargados, partículas y movimiento infinito.  
-
 🧠 **[AnythingLLM RAG – WPF App](https://github.com/TatsumiHispano/AnythingLLM-RAG)**  
 Aplicación de escritorio en C# que conecta con sistemas RAG y modelos LLM.  
 
 ---
+
+## 📊 Lenguajes más usados:
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TatsumiHispano&layout=compact&theme=dark)
+
+---
+
+## 📈 Estadísticas de GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatsumiHispano&show_icons=true&theme=radical)
+
+---
+
+## 🏆 Logros y actividad
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TatsumiHispano&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=TatsumiHispano&theme=onestar&no-bg=true&margin-w=15)
+
+---
+
 ### 📊 Lenguajes más usados:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TatsumiHispano&layout=compact&theme=dark)
 
