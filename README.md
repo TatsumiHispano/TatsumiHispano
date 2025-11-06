@@ -43,22 +43,6 @@ Aplicación de escritorio en C# que conecta con sistemas RAG y modelos LLM.
 
 ---
 
-## 📊 Lenguajes más usados:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TatsumiHispano&layout=compact&theme=dark)
-
----
-
-## 📈 Estadísticas de GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatsumiHispano&show_icons=true&theme=radical)
-
----
-
-## 🏆 Logros y actividad
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TatsumiHispano&theme=dark)
-![Trophies](https://github-profile-trophy.vercel.app/?username=TatsumiHispano&theme=onestar&no-bg=true&margin-w=15)
-
----
-
 ### 📊 Lenguajes más usados:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TatsumiHispano&layout=compact&theme=dark)
 
