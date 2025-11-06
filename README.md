@@ -31,7 +31,20 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+---
 
+## 🧩 Proyectos destacados
+
+🎯 **[RunAndJump](https://github.com/TatsumiHispano/RunAndJump)**  
+Juego tipo *runner* 2D con animaciones, partículas y música integradas.  
+
+👾 **[El Mata Marcianos](https://github.com/TatsumiHispano/ElMataMarcianos)**  
+Shooter 2D con disparos cargados, partículas y movimiento infinito.  
+
+🧠 **[AnythingLLM RAG – WPF App](https://github.com/TatsumiHispano/AnythingLLM-RAG)**  
+Aplicación de escritorio en C# que conecta con sistemas RAG y modelos LLM.  
+
+---
 ### 📊 Lenguajes más usados:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TatsumiHispano&layout=compact&theme=dark)
 
