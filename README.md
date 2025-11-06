@@ -11,7 +11,7 @@
 ### Tecnologías y habilidades:
 - **Lenguajes de programación:** Java, Python, C#, JavaScript
 - **Desarrollo web:** HTML, CSS
-- 
+
 ### En qué soy bueno :
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
