@@ -44,7 +44,7 @@ Aplicación de escritorio en **C# y WPF** que permite mantener una conversación
 
 ### 📊 Lenguajes más usados:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TatsumiHispano&layout=compact&theme=dark)
----
+
 ### 📊 Estadisticas de GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatsumiHispano&show_icons=true&theme=radical)
 
