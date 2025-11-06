@@ -17,8 +17,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-
 ### En qué soy bueno :
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -43,8 +41,6 @@ Aplicación de escritorio en C# que conecta con sistemas RAG y modelos LLM.
 
 💬 **[ChatIA – Chat con IA en WPF usando RabbitMQ](https://github.com/TatsumiHispano/ChatIA)**  
 Aplicación de escritorio en **C# y WPF** que permite mantener una conversación grupal en tiempo real a través de **RabbitMQ**, integrando además una **Inteligencia Artificial local** para generar respuestas automáticas.  
-
----
 
 ### 📊 Lenguajes más usados:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TatsumiHispano&layout=compact&theme=dark)
