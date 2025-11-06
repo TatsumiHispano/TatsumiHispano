@@ -43,8 +43,6 @@ Aplicación de escritorio en C# que conecta con sistemas RAG y modelos LLM.
 
 💬 **[ChatIA – Chat con IA en WPF usando RabbitMQ](https://github.com/TatsumiHispano/ChatIA)**  
 Aplicación de escritorio en **C# y WPF** que permite mantener una conversación grupal en tiempo real a través de **RabbitMQ**, integrando además una **Inteligencia Artificial local** para generar respuestas automáticas.  
-Ideal para aprender sobre mensajería distribuida, interfaces gráficas y consumo de APIs de IA.
-****
 
 ---
 
